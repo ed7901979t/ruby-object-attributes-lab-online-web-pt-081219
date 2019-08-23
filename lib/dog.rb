@@ -8,7 +8,5 @@ class Dog
 
 end
 
-lucy=Dog.new   
-lucy.dogs_name="German"
-
+ 
 
